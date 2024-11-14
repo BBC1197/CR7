@@ -12,4 +12,4 @@ git config --global user.name "BBC1197"
 
 git config --global user.email "man11tochennai@yahoo.in"
 
-
+git log
