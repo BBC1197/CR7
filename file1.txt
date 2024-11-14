@@ -1,3 +1,15 @@
-This is a dummy file.
+Git/Github commads
 
-This is an example of git
+git init
+
+git add file.txt
+
+git commit -m "Feature:- added git basic command"
+
+git status
+
+git config --global user.name "BBC1197"
+
+git config --global user.email "man11tochennai@yahoo.in"
+
+
